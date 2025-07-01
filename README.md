@@ -15,7 +15,7 @@ This project is a collection of fun, interesting, and challenging experiences we
 **[English]**
 Everyone is welcome to contribute! Please share your story by creating a new **"Issue"**.
 
-1.  Go to the **[Issues](https://github.com/你的GitHub用户名/AttractingContributors/issues)** tab.
+1.  Go to the **[Issues](https://github.com/Luo0515/AttractingContributors/issues)** tab.
 2.  Click the **"New issue"** button.
 3.  Use a descriptive title for your story (e.g., "My Epic 'Kawaii' vs 'Kowai' Mistake").
 4.  Write down your experience in the main body. Feel free to write in English, Japanese, or both!
@@ -24,7 +24,7 @@ Everyone is welcome to contribute! Please share your story by creating a new **"
 **[日本語]**
 誰でも大歓迎です！ぜひあなたの体験談を **"Issue"** を作成して共有してください。
 
-1.  **[Issues](https://github.com/你的GitHub用户名/AttractingContributors/issues)** タブに移動します。
+1.  **[Issues](https://github.com/Luo0515/AttractingContributors/issues)** タブに移動します。
 2.  **"New issue"** ボタンをクリックします。
 3.  タイトルには、内容がわかるような題名をつけてください。(例：「可愛い」と「怖い」を間違えた話)
 4.  本文にあなたの経験を書いてください。英語、日本語、またはその両方で書いて構いません！
