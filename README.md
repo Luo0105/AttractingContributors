@@ -1,41 +1,31 @@
-# Fun and Difficulties in Learning Japanese / 日本語学習中の面白いことや大変なこと
+# What's Your Favorite City in Japan? / あなたの好きな日本の街はどこですか？
 
-## 📖 このプロジェクトについて (About This Project)
+## 🏙️ About This Project (このプロジェクトについて)
 
 **[English]**
-This project is a collection of fun, interesting, and challenging experiences we've encountered learning Japanese language. Let's share our stories! The goal is to create a supportive space where we can learn from each other and realize we're not alone in this journey.
+This is a simple project to collect everyone's favorite cities in Japan. The goal is to create a list of recommendations and see what places are popular among us.
 
 **[日本語]**
-このプロジェクトは、私たちが日本語を学ぶ中で経験した、面白かったこと、興味深かったこと、そして大変だったことの体験談を集める場所です。みんなでストーリーを共有しましょう！お互いの経験から学び、「この道は一人じゃない」と感じられるような、協力的な空間を作ることを目指しています。
+このプロジェクトは、みんなが好きな日本の都市を集めるためのシンプルなプロジェクトです。おすすめの場所のリストを作成し、私たちの間でどの街が人気なのかを見てみましょう。
 
 ---
 
-## 📝 参加方法 (How to Contribute)
+## 📝 How to Contribute (参加方法)
 
 **[English]**
-Everyone is welcome to contribute! Please share your story by creating a new **"Issue"**.
+It's very easy to contribute! Please share your favorite city by creating a new **"Issue"**.
 
 1.  Go to the **[Issues](https://github.com/Luo0515/AttractingContributors/issues)** tab.
 2.  Click the **"New issue"** button.
-3.  Use a descriptive title for your story (e.g., "My Epic 'Kawaii' vs 'Kowai' Mistake").
-4.  Write down your experience in the main body. Feel free to write in English, Japanese, or both!
-5.  Click **"Submit new issue"**. That's it!
+3.  Use the **city name as the title** (e.g., "Kyoto" or "Osaka").
+4.  (Optional) In the body, you can briefly write why you like it.
+5.  Click **"Submit new issue"**. Thank you!
 
 **[日本語]**
-誰でも大歓迎です！ぜひあなたの体験談を **"Issue"** を作成して共有してください。
+参加方法はとても簡単です！ **"Issue"** を作成して、あなたの好きな都市を教えてください。
 
 1.  **[Issues](https://github.com/Luo0515/AttractingContributors/issues)** タブに移動します。
 2.  **"New issue"** ボタンをクリックします。
-3.  タイトルには、内容がわかるような題名をつけてください。(例：「可愛い」と「怖い」を間違えた話)
-4.  本文にあなたの経験を書いてください。英語、日本語、またはその両方で書いて構いません！
-5.  **"Submit new issue"** をクリックすれば完了です！
-
----
-
-## 💡 アイデアの例 (Example Ideas)
-
-* A funny story about misusing a word (言い間違いの面白い話)
-* A difficult kanji you finally memorized (やっと覚えた難しい漢字)
-* Your favorite Japanese phrase and why (好きな日本語のフレーズとその理由)
-* A cultural shock moment (カルチャーショックを受けた瞬間)
-* A useful learning resource you found (見つけた便利な学習リソース)
+3.  **都市名をタイトル**にしてください (例: 「京都」や「大阪」)。
+4.  (任意) 本文に、その街が好きな理由を簡単に書くことができます。
+5.  **"Submit new issue"** をクリックすれば完了です。ありがとうございます！
