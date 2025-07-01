@@ -15,7 +15,7 @@ This is a simple project to collect everyone's favorite cities in Japan. The goa
 **[English]**
 It's very easy to contribute! Please share your favorite city by creating a new **"Issue"**.
 
-1.  Go to the **[Issues](https://github.com/Luo0515/AttractingContributors/issues)** tab.
+1.  Go to the **[Issues](https://github.com/Luo0105/AttractingContributors/issues)** tab.
 2.  Click the **"New issue"** button.
 3.  Use the **city name as the title** (e.g., "Kyoto" or "Osaka").
 4.  (Optional) In the body, you can briefly write why you like it.
@@ -24,7 +24,7 @@ It's very easy to contribute! Please share your favorite city by creating a new 
 **[日本語]**
 参加方法はとても簡単です！ **"Issue"** を作成して、あなたの好きな都市を教えてください。
 
-1.  **[Issues](https://github.com/Luo0515/AttractingContributors/issues)** タブに移動します。
+1.  **[Issues](https://github.com/Luo0105/AttractingContributors/issues)** タブに移動します。
 2.  **"New issue"** ボタンをクリックします。
 3.  **都市名をタイトル**にしてください (例: 「京都」や「大阪」)。
 4.  (任意) 本文に、その街が好きな理由を簡単に書くことができます。
